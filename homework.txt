@@ -1,0 +1,6 @@
+homework 4/12/16
+
+1/ merge Brach1 and master. (git tutorial)
+2/ add slave to jenkins and run code again.
+
+
